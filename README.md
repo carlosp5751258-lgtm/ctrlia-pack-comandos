@@ -1,5 +1,7 @@
 # ctrlia-pack-comandos
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 **5 comandos (skills) en español para Claude Code**, listos para copiar:
 
 | Comando | Qué hace |
